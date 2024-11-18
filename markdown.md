@@ -18,6 +18,6 @@ https://docker-504-654354511182.us-central1.run.app
 <img width="1470" alt="Screenshot 2024-11-12 at 15 51 51" src="https://github.com/user-attachments/assets/e01b8cf5-a7e8-4cd6-95f7-3a55d2366e5d">
 
 ## 4 - Reflections on the deployment process and any challenges faced and how you resolved them
-
+Due to GCP's straightforward interface, the deployment process was fairly simple. It also helped to follow the process done in class. Without it, deploying a Docker would have been confusing. 
 
 
