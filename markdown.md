@@ -11,13 +11,11 @@
 ### Lastly, change the maximum number of instances to a low number to avoid accruing costs
 <img width="831" alt="Screenshot 2024-11-12 at 15 48 59" src="https://github.com/user-attachments/assets/ebaf68fe-bcce-408a-987d-94c389c881e7">
 
+### You have created your container!
+<img width="1470" alt="Screenshot 2024-11-19 at 14 39 44" src="https://github.com/user-attachments/assets/fe67a161-5bc4-48b4-98e4-75bfcf8ec036">
+
 ## 3 - Link to the deployed application
-https://docker-504-654354511182.us-central1.run.app
-<img width="1470" alt="Screenshot 2024-11-12 at 15 51 26" src="https://github.com/user-attachments/assets/90982bf6-33b8-4e6a-8b8a-92e70d8519c4">
-<img width="1470" alt="Screenshot 2024-11-12 at 15 51 34" src="https://github.com/user-attachments/assets/3098d82e-d911-49dd-944e-1bcfbde71d06">
-<img width="1470" alt="Screenshot 2024-11-12 at 15 51 51" src="https://github.com/user-attachments/assets/e01b8cf5-a7e8-4cd6-95f7-3a55d2366e5d">
+https://docker-504-39178046682.us-central1.run.app
 
 ## 4 - Reflections on the deployment process and any challenges faced and how you resolved them
 Due to GCP's straightforward interface, the deployment process was fairly simple. It also helped to follow the process done in class. Without it, deploying a Docker would have been confusing. 
-
-
